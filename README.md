@@ -5,6 +5,7 @@ Helps manage javascript tasks
 ## Usage
 
 Make a new manager
+
     var task_manager = new JavascriptTaskManager();
     
 Add a task
